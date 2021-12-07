@@ -1,0 +1,10 @@
+temperature,period,short description,description,temp_num,is_night
+Low: 62 °F,Tonight,Mostly Clear,"Tonight: Mostly clear, with a low around 62. North wind around 8 mph. ",62,True
+High: 74 °F,Tuesday,Sunny,"Tuesday: Sunny, with a high near 74. Northeast wind around 9 mph. ",74,False
+Low: 67 °F,TuesdayNight,Mostly Clear,"Tuesday Night: Mostly clear, with a low around 67. Northeast wind 9 to 11 mph. ",67,True
+High: 77 °F,Wednesday,Mostly Sunny,"Wednesday: Mostly sunny, with a high near 77. East wind 9 to 13 mph. ",77,False
+Low: 69 °F,WednesdayNight,Partly Cloudy,"Wednesday Night: Partly cloudy, with a low around 69. East wind around 11 mph. ",69,True
+High: 78 °F,Thursday,Mostly Sunny,"Thursday: Mostly sunny, with a high near 78. Northeast wind 10 to 13 mph. ",78,False
+Low: 70 °F,ThursdayNight,Partly Cloudy,"Thursday Night: Partly cloudy, with a low around 70. East wind 8 to 10 mph. ",70,True
+High: 78 °F,Friday,Mostly Sunny,"Friday: Mostly sunny, with a high near 78. Northeast wind 8 to 13 mph. ",78,False
+Low: 71 °F,FridayNight,Partly Cloudy,"Friday Night: Partly cloudy, with a low around 71. East wind around 9 mph. ",71,True
